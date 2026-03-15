@@ -19,7 +19,7 @@ A professional 5-day weather forecast website featuring a dark glassmorphism des
 
 Since this is a vanilla JavaScript application using ES modules and fetching external APIs, it requires a local web server to run correctly (opening `index.html` directly in the browser will not work due to CORS policies).
 
-### Option 1: Using Python (Recommended)
+### Option 1: Using Python
 
 If you have Python installed (macOS/Linux usually do by default):
 
