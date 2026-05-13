@@ -27,7 +27,7 @@ A 5-day weather forecast website using vanilla HTML/CSS/JavaScript with the Open
 
 ```bash
 # Start local server (required for testing)
-python3 -m http.server 8080
+npx http-server -p 8080
 
 # Run all Playwright tests
 npm test
